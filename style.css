@@ -44,7 +44,7 @@ h1 {
   }
   .Star {
     height: 100px;
-    display: block;
-    margin: 10 auto;
+    display: flex;
     background-color: #32CD32;
+    vertical-align: bottom;
   }
