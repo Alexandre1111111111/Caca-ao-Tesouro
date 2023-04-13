@@ -45,6 +45,6 @@ h1 {
   .Star {
     height: 100px;
     display: flex;
-    background-color: #32CD32;
-    vertical-align: bottom;
+    background-color: #b6d9ac;
+    float: right;
   }
