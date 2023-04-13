@@ -9,6 +9,9 @@ h1 {
   h2 {
     font-size: 40px;
     text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: 	#00FF7F	;
   }
   h3 {
     font-size: 40px;
