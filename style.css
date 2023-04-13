@@ -25,6 +25,7 @@ h1 {
   }
   img {
     height: 500px;
+    border: thin black solid;
     display: block;
     margin: 0 auto;
   }
